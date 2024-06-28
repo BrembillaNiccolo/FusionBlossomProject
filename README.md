@@ -26,7 +26,9 @@ Quantum Computing (QC) represents a novel computing paradigm with the ability to
 **KernelCode folder:** contains the source files for kernel
 -	kernel.cpp : source file for the kernel
 **HostCode folder:** contains the source files for host
--	hostStart.cpp : source file for the kernel
+-	hostStart.cpp : source file for the host
+**TestBench folder:** contains the source files for the testbench
+-	testBench.cpp : source file for the testbench
 **Makefile:** makefile to automate design generation, build the host application and run software emulation, hardware emulation and hardware.
 - makefile_us_alveo.mk : utility file for Makefile
 - utils.mk : utility file for Makefile
@@ -38,14 +40,9 @@ Quantum Computing (QC) represents a novel computing paradigm with the ability to
 
   
 ## Instructions to build and test project
-1. source the required sh files for Vitis and XRT:
-	- source path/to/settings64.sh
-	- source path/to/xrt/setup.sh
-	- export PLATFORM_PATH=path/to/xilinx/platforms/
-
-2. to build and create the kernel (for u55c):
+1. to build and create the kernel (for u55c):
 	- ./build.sh  platform  desired_frequency
 	
-3. to only compile the host (called ./querk) and run separately:
+2. to only compile the host (called ./QECBLOSSOM) and run separately:
 	- make host
 	- ./QECBLOSSOM  path/to/BLOSSOM.xclbin  path/to/test.txt
