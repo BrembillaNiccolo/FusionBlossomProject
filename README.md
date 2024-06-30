@@ -7,7 +7,9 @@
 
 ## Team:
 
-- **Participant(s):** Niccolò Brembilla,  **Email:** niccolo1.brembilla@mail.polimi.it
+**Participant(s):** Niccolò Brembilla
+
+**Email:** niccolo1.brembilla@mail.polimi.it
 
 **Supervisor name:** Prof. Marco Santambrogio
 
