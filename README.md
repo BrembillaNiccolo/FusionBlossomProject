@@ -28,6 +28,7 @@ Quantum Computing (QC) represents a novel computing paradigm with the ability to
   
 **HostCode folder:** contains the source files for host
 -	hostStart.cpp : source file for the host
+  
 **TestBench folder:** contains the source files for the testbench
 -	testBench.cpp : source file for the testbench
   
