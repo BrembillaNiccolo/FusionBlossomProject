@@ -1,7 +1,7 @@
 # FusionBlossomProject
 - **Team Number:** AOHW-314
 - **Project Name:**  Accelerating Quantum Error Correction on FPGA: the Fusion Blossom approach 
-- **Link to YouTube Video(s):** 
+- **Link to YouTube Video(s):** https://youtu.be/sgWAbkiQKVA
 - **Link to project repository:** https://github.com/BrembillaNiccolo/FusionBlossomProject/
 - **University name:** Politecnico di Milano
 
